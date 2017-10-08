@@ -1,5 +1,5 @@
 print ("What time is it?");
 after
-print ("Thanks!")
+print ("Thanks!");
 after 
 print ("byebye!")
