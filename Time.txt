@@ -1,0 +1,3 @@
+print ("What time is it?");
+after
+print ("Thanks!")
